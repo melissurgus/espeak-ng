@@ -1,1 +1,78 @@
+ 
+//====================================================
+//  Tone Numbers
+//====================================================
+
+
+phoneme 1   //  tone: mid-high level
+  stress
+  Tone(40, 42, envelope/p_rise, NULL)
+endphoneme
+
+
+phoneme 2   //  tone: low fall
+  stress
+  Tone(18, 9, envelope/p_fall, NULL)
+endphoneme
+
+
+phoneme 3   //  tone: mid fall
+  stress
+  Tone(30, 10, envelope/p_fall, NULL)
+endphoneme
+
+
+phoneme 4   //  tone: low rise
+  stress
+  Tone(20, 40, envelope/p_rise, NULL)
+endphoneme
+
+
+phoneme 5   //  tone: high fall
+  stress
+  Tone(50, 30, envelope/p_fall, NULL)
+endphoneme
+
+
+phoneme 6   //  tone: high rise
+  stress
+  Tone(30, 50, envelope/p_rise, NULL)
+endphoneme
+
+
+phoneme 11   //  tone: low level
+  stress
+  Tone(12, 9, envelope/p_fall, NULL)
+endphoneme
+
+
+phoneme 42   //  tone: mid fall
+  stress
+  Tone(42, 18, envelope/p_fall, NULL)
+endphoneme
+
+
+phoneme 33   //  tone: mid level
+  stress
+  Tone(30, 30, envelope/p_level, NULL)
+endphoneme
+
+
+phoneme 24   //  tone: low rise
+  stress
+  Tone(20, 40, envelope/p_rise, NULL)
+endphoneme
+
+
+phoneme 44   //  tone: mid-high level
+  stress
+  Tone(40, 40, envelope/p_level, NULL)
+endphoneme
+
+
+phoneme 55   //  tone: high level
+  stress
+  Tone(55, 50, envelope/p_level, NULL)
+endphoneme
+
 

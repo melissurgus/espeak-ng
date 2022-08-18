@@ -547,6 +547,7 @@ dictionaries: \
 	espeak-ng-data/ur_dict \
 	espeak-ng-data/uz_dict \
 	espeak-ng-data/vi_dict \
+	espeak-ng-data/yfg_dict \
 	espeak-ng-data/yue_dict
 
 DICTSOURCE = \
@@ -920,6 +921,9 @@ espeak-ng-data/cmn_dict: dictsource/cmn_list dictsource/cmn_rules dictsource/cmn
 else
 espeak-ng-data/cmn_dict: dictsource/cmn_list dictsource/cmn_rules dictsource/cmn_extra dictsource/cmn_emoji
 endif
+
+yfg: espeak-ng-data/yfg_dict
+espeak-ng-data/yfg_dict: dictsource/yfg_list dictsource/yfg_rules
 
 yue: espeak-ng-data/yue_dict
 dictsource/yue_listx:

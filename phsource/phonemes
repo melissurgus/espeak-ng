@@ -2063,3 +2063,6 @@ phonemetable be ru
 include ph_belarusian
 
 phonemetable ms id
+
+phonemetable yfg base1
+include ph_yfg

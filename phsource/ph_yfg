@@ -372,7 +372,7 @@ endphoneme
 phoneme v- //syllabic v
   vwl  starttype #@  endtype #@
   length 250
-  FMT(vowel/v#_7) addWav(vocw/v)
+  FMT(vowel/u#_7) addWav(vocw/v)
 endphoneme
 
 phoneme i

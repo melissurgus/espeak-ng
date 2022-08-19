@@ -352,11 +352,10 @@ endphoneme
 
 
 //====================================================
-//Syllablic consonant
+//  Vowels and Diphtnongs
 //====================================================
 
-
-phoneme N-
+phoneme N-   // syllabic N
   vwl starttype #e endtype #e
   ipa ŋU+0329
   lengthmod 4
@@ -364,4 +363,139 @@ phoneme N-
   FMT(nn/nn-syl)
 endphoneme
 
+phoneme i[ //after ts tsh s
+  vwl  starttype #i  endtype #i
+  length 250
+  FMT(vowel/i#_7)
+endphoneme
 
+phoneme v- //syllabic v
+  vwl  starttype #@  endtype #@
+  length 250
+  FMT(vowel/v#_7) addWav(vocw/v)
+endphoneme
+
+phoneme i
+  vwl  starttype #i  endtype #i
+  length 250
+  FMT(vowel/i)
+endphoneme
+
+phoneme ui
+  vwl  starttype #u  endtype #i
+  length 250
+  FMT(vdiph/ui)
+endphoneme
+
+phoneme ywi
+  vwl  starttype #i  endtype #i
+  length 250
+  FMT(vdiph/yi)
+endphoneme
+
+phoneme e
+  vwl starttype #e endtype #e
+  length 250
+  FMT(vowel/e)
+endphoneme
+
+phoneme ue
+  vwl  starttype #u  endtype #e
+  length 250
+  FMT(vwl_zh/uei)
+endphoneme
+
+phoneme ie
+  vwl  starttype #i  endtype #e
+  length 250
+  FMT(vwl_zh/ie)
+endphoneme
+
+phoneme ywe  //try more so not similar to iE
+  vwl  starttype #i  endtype #e
+  length 250
+  FMT(vwl_zh/yee)
+endphoneme
+
+phoneme a
+  vwl starttype #a endtype #a
+  ipa æ
+  length 250
+  IF nextPh(N) THEN
+    FMT(vnasal/&_n)
+  ENDIF
+  FMT(vowel/&)
+endphoneme
+
+phoneme ua
+  vwl starttype #u endtype #a
+  length 250
+  FMT(vdiph2/oa)
+endphoneme
+
+phoneme ya
+  vwl  starttype #i  endtype #e
+  length 250
+  FMT(vwl_zh/y&)
+endphoneme
+
+phoneme @
+  vwl  starttype #@  endtype #@
+  length 250
+  FMT(vowel/@_bck)
+  endphoneme
+  
+phoneme i@
+  vwl starttype #i endtype #@
+  length 250
+  FMT(vdiph/i@_2)
+endphoneme
+
+phoneme W
+  vwl starttype #@  endtype #@
+  length 250
+  FMT(vowel/@_6)
+endphoneme
+
+phoneme A
+  vwl starttype #a endtype #a
+  ipa ɑ
+  length 250
+  IF nextPh(N) THEN
+    FMT(vowel/aa_2)
+  ENDIF
+  FMT(vowel/a_3)
+endphoneme
+
+phoneme iA
+  vwl  starttype #i  endtype #a
+  length 250
+  FMT(vwl_zh/iaa)
+endphoneme
+
+phoneme u
+  vwl starttype #u endtype #u
+  length 250
+  FMT(vowel/u_bck)
+endphoneme
+
+phoneme iu
+  vwl  starttype #i  endtype #u
+  length 250
+  FMT(vdiph2/iu)
+endphoneme
+
+phoneme o
+  vwl starttype #o endtype #o
+  length 250
+  IF nextPh(N) THEN
+    FMT(vnasal/oo_n2)
+  ENDIF
+  FMT(vdiph2/o_oo)
+endphoneme
+
+phoneme io
+  vwl  starttype #i  endtype #o
+  length 250
+  FMT(vdiph2/iioo)
+endphoneme

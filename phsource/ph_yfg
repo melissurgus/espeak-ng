@@ -8,6 +8,7 @@ phoneme 1   //  tone: yinping
   ipa ˦˦
   stress
   Tone(40, 42, envelope/p_rise, NULL)
+  length 250
 endphoneme
 
 
@@ -15,6 +16,7 @@ phoneme 2   //  tone: yangping, yinqu
   ipa ˨˨˩
   stress
   Tone(18, 9, envelope/p_fall, NULL)
+  length 350
 endphoneme
 
 
@@ -22,6 +24,7 @@ phoneme 3   //  tone: shang
   ipa ˧˩
   stress
   Tone(30, 10, envelope/p_fall, NULL)
+  length 180
 endphoneme
 
 
@@ -29,6 +32,7 @@ phoneme 4   //  tone: yangqu
   ipa ˨˦
   stress
   Tone(20, 40, envelope/p_rise, NULL)
+  length 350
 endphoneme
 
 
@@ -36,6 +40,7 @@ phoneme 5   //  tone: ru
   ipa ˥˧
   stress
   Tone(50, 30, envelope/p_fall, NULL)
+  length 180
 endphoneme
 
 
@@ -43,6 +48,7 @@ phoneme 6   //  tone: diminutive tone, yangshang
   ipa ˧˥
   stress
   Tone(30, 50, envelope/p_rise, NULL)
+  length 200
 endphoneme
 
 
@@ -486,6 +492,12 @@ phoneme iu
 endphoneme
 
 phoneme o
+  vwl starttype #o  endtype #o
+  length 250
+  FMT(vowel/o)
+endphoneme
+
+phoneme O
   vwl starttype #o endtype #o
   length 250
   IF nextPh(N) THEN
@@ -494,7 +506,7 @@ phoneme o
   FMT(vdiph2/o_oo)
 endphoneme
 
-phoneme io
+phoneme iO
   vwl  starttype #i  endtype #o
   length 250
   FMT(vdiph2/iioo)

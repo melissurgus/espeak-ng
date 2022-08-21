@@ -8,14 +8,22 @@ phoneme 1   //  tone: yinping
   ipa ˦˦
   stress
   Tone(40, 42, envelope/p_rise, NULL)
+  IF nextPh(isPause) THEN
+    length 250
+  ENDIF
   length 220
 endphoneme
 
 
 phoneme 2   //  tone: yangping, yinqu
-  ipa ˨˨˩
   stress
-  Tone(18, 9, envelope/p_fall, NULL)
+  IF nextPh(isPause) THEN
+    ipa ˨˨˩
+    Tone(18, 9, envelope/p_fall, NULL)
+    length 450
+  ENDIF
+  ipa ˧˧
+  Tone(30, 30, envelope/p_level, NULL)
   length 350
 endphoneme
 
@@ -24,6 +32,9 @@ phoneme 3   //  tone: shang
   ipa ˧˩
   stress
   Tone(30, 10, envelope/p_fall, NULL)
+  IF nextPh(isPause) THEN
+    length 250
+  ENDIF
   length 150
 endphoneme
 
@@ -40,7 +51,10 @@ phoneme 5   //  tone: ru
   ipa ˥˧
   stress
   Tone(50, 30, envelope/p_fall, NULL)
-  length 120
+  IF nextPh(isPause) THEN
+    length 120
+  ENDIF
+  length 150
 endphoneme
 
 
@@ -177,7 +191,7 @@ endphoneme
 
 phoneme ph
   vls blb stp
-  ipa ph
+  ipa pʰ
   lengthmod 2
   Vowelin  f1=0  f2=1000 -50 -100  f3=-200 80 amp=11
   Vowelout f1=0  f2=1000 -500 -350  f3=-300 80 rms=22
@@ -231,7 +245,7 @@ endphoneme
 
 phoneme th
   vls alv stp
-  ipa th
+  ipa tʰ
   lengthmod 2
   Vowelin f1=0  f2=1700 -300 300  f3=-100 80
   Vowelout f1=0 f2=1700 -300 250  f3=-100 80  rms=20
@@ -261,7 +275,7 @@ endphoneme
 
 phoneme kh
   vls uvl stp
-  ipa kh
+  ipa kʰ
   lengthmod 2
   Vowelin f1=1  f2=1700 0 200  f3=-300 80 f4
   Vowelout f1=1 f2=1700 0 200  f3=-300 80 f4 rms=30
@@ -299,7 +313,7 @@ endphoneme
 
 phoneme tS;h
   vls alp sib afr
-  ipa tɕh
+  ipa tɕʰ
   lengthmod 2
   Vowelin f1=0  f2=2700 400 600  f3=300 80
   WAV(ustop/ts_pzd3, 80)
@@ -333,16 +347,9 @@ endphoneme
 phoneme s
   vls alv frc sib
   ipa s
-  voicingswitch z
   lengthmod 3
   Vowelin  f1=0  f2=1700 -300 300  f3=-100 80
   Vowelout f1=0  f2=1700 -300 250  f3=-100 80  rms=20
-
-  IF nextPh(isPause) THEN
-    WAV(ufric/s_)
-  ELIF nextPh(p) OR nextPh(t) OR nextPh(k) THEN
-    WAV(ufric/s!)
-  ENDIF
   WAV(ufric/s)
 endphoneme
 
@@ -350,7 +357,6 @@ phoneme j
   liquid pal
   ipa j
   lengthmod 1
-
   IF nextPh(isVowel) THEN
     NextVowelStarts
       VowelStart(j/j@)
@@ -371,6 +377,10 @@ phoneme j
   ENDIF
 endphoneme
 
+phoneme ?
+  vls glt stp
+  ipa ʔ
+endphoneme
 
 //====================================================
 //  Vowels and Diphtnongs

@@ -100,6 +100,7 @@ endphoneme
 
 phoneme N
   vcd vel nas
+  ipa ŋ
   Vowelout f1=2 f2=1900 0 300  f3=400 80  len=50 rms=15 brk
   lengthmod 7
 
@@ -122,6 +123,7 @@ endphoneme
 
 phoneme n^ // ng(i)-
   vcd pal nas
+  ipa ȵ
   Vowelout f1=2 f2=1900 0 300  f3=400 80  len=50 rms=15 brk
   lengthmod 7
 
@@ -144,6 +146,7 @@ endphoneme
 
 phoneme m
   vcd blb nas
+  ipa m
   Vowelout f1=2 f2=1700 -300 250  f3=-100 80  rms=20 brk
   lengthmod 4
 
@@ -165,6 +168,7 @@ endphoneme
 
 phoneme p
   vls blb stp
+  ipa p
   lengthmod 2
   Vowelin  f1=0  f2=1000 -50 -100  f3=-200 80 amp=11
   Vowelout f1=0  f2=1000 -500 -350  f3=-300 80 rms=22
@@ -173,6 +177,7 @@ endphoneme
 
 phoneme ph
   vls blb stp
+  ipa ph
   lengthmod 2
   Vowelin  f1=0  f2=1000 -50 -100  f3=-200 80 amp=11
   Vowelout f1=0  f2=1000 -500 -350  f3=-300 80 rms=22
@@ -182,6 +187,7 @@ endphoneme
 
 phoneme f
   vls lbd frc
+  ipa f
   lengthmod 2
   Vowelout f1=0  f2=1000 -500 -350  f3=-200 80
   WAV(ufric/f)
@@ -190,6 +196,7 @@ endphoneme
 
 phoneme v
   vcd lbd frc
+  ipa v
   voicingswitch f
   lengthmod 6
   Vowelin  f1=0  f2=1000 -300 -200  f3=-300 100
@@ -214,6 +221,7 @@ endphoneme
 
 phoneme t
   vls alv stp
+  ipa t
   lengthmod 2
   Vowelin f1=0  f2=1700 -300 300  f3=-100 80  rms=40
   Vowelout f1=0 f2=1700 -300 250  f3=-100 80  rms=20
@@ -223,6 +231,7 @@ endphoneme
 
 phoneme th
   vls alv stp
+  ipa th
   lengthmod 2
   Vowelin f1=0  f2=1700 -300 300  f3=-100 80
   Vowelout f1=0 f2=1700 -300 250  f3=-100 80  rms=20
@@ -231,6 +240,7 @@ endphoneme
 
 phoneme l
   liquid
+  ipa l
   lengthmod 7
 
   IF prevPh(isPause) THEN
@@ -242,6 +252,7 @@ endphoneme
 
 phoneme k
   vls uvl stp
+  ipa k
   lengthmod 2
   Vowelin f1=1  f2=1700 0 200  f3=-300 80 f4
   Vowelout f1=1 f2=1700 0 200  f3=-300 80 f4 rms=30
@@ -250,6 +261,7 @@ endphoneme
 
 phoneme kh
   vls uvl stp
+  ipa kh
   lengthmod 2
   Vowelin f1=1  f2=1700 0 200  f3=-300 80 f4
   Vowelout f1=1 f2=1700 0 200  f3=-300 80 f4 rms=30
@@ -295,8 +307,8 @@ endphoneme
 
 phoneme S;
   vls pla frc sib
-  lengthmod 2
   ipa ɕ
+  lengthmod 2
   Vowelin f1=0  f2=2700 400 600  f3=300 80
   WAV(ufric/sh_pzd2, 20)
 endphoneme
@@ -311,6 +323,7 @@ endphoneme
 
 phoneme tsh
   vls alv afr sib
+  ipa tsh
   lengthmod 2
   Vowelin f1=0  f2=1700 -300 300  f3=-100 80
   Vowelout f1=0 f2=1700 -300 250  f3=-100 80  rms=20
@@ -319,6 +332,7 @@ endphoneme
 
 phoneme s
   vls alv frc sib
+  ipa s
   voicingswitch z
   lengthmod 3
   Vowelin  f1=0  f2=1700 -300 300  f3=-100 80
@@ -334,6 +348,7 @@ endphoneme
 
 phoneme j
   liquid pal
+  ipa j
   lengthmod 1
 
   IF nextPh(isVowel) THEN
@@ -377,48 +392,56 @@ endphoneme
 
 phoneme v- //syllabic v
   vwl  starttype #@  endtype #@
+  ipa vU+0329
   length 250
   FMT(vowel/u#_7) addWav(vocw/v)
 endphoneme
 
 phoneme i
   vwl  starttype #i  endtype #i
+  ipa ɿ
   length 250
   FMT(vowel/i)
 endphoneme
 
 phoneme ui
   vwl  starttype #u  endtype #i
+  ipa ui
   length 250
   FMT(vdiph/ui)
 endphoneme
 
 phoneme yi
   vwl  starttype #i  endtype #i
+  ipa yi
   length 250
   FMT(vdiph/yi)
 endphoneme
 
 phoneme e
   vwl starttype #e endtype #e
+  ipa e
   length 250
   FMT(vowel/e)
 endphoneme
 
 phoneme ue
   vwl  starttype #u  endtype #e
+  ipa ue
   length 250
   FMT(vwl_zh/uei)
 endphoneme
 
 phoneme ie
   vwl  starttype #i  endtype #e
+  ipa iɛ
   length 250
   FMT(vwl_zh/ie)
 endphoneme
 
 phoneme ye  //try more so not similar to iE
   vwl  starttype #i  endtype #e
+  ipa yɛ
   length 250
   FMT(vwl_zh/yee)
 endphoneme
@@ -435,30 +458,35 @@ endphoneme
 
 phoneme ua
   vwl starttype #u endtype #a
+  ipa uæ
   length 250
   FMT(vdiph2/oa)
 endphoneme
 
 phoneme ya
   vwl  starttype #i  endtype #e
+  ipa yæ
   length 250
   FMT(vwl_zh/y&)
 endphoneme
 
 phoneme @
   vwl  starttype #@  endtype #@
+  ipa ə
   length 250
   FMT(vowel/@_bck)
   endphoneme
   
 phoneme i@
   vwl starttype #i endtype #@
+  ipa iə
   length 250
   FMT(vdiph/i@_2)
 endphoneme
 
 phoneme W
   vwl starttype #@  endtype #@
+  ipa ʮ
   length 250
   FMT(vowel/@_6)
 endphoneme
@@ -475,30 +503,35 @@ endphoneme
 
 phoneme iA
   vwl  starttype #i  endtype #a
+  ipa iɑ
   length 250
   FMT(vwl_zh/iaa)
 endphoneme
 
 phoneme u
   vwl starttype #u endtype #u
+  ipa u
   length 250
   FMT(vowel/u_bck)
 endphoneme
 
 phoneme iu
   vwl  starttype #i  endtype #u
+  ipa iu
   length 250
   FMT(vdiph2/iu)
 endphoneme
 
 phoneme o
   vwl starttype #o  endtype #o
+  ipa o
   length 250
   FMT(vowel/o)
 endphoneme
 
 phoneme O
   vwl starttype #o endtype #o
+  ipa ɔ
   length 250
   IF nextPh(N) THEN
     FMT(vnasal/oo_n2)
@@ -508,6 +541,7 @@ endphoneme
 
 phoneme iO
   vwl  starttype #i  endtype #o
+  ipa iɔ
   length 250
   FMT(vdiph2/iioo)
 endphoneme

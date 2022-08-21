@@ -87,7 +87,7 @@ phoneme 44   //  tone: mid-high level
 endphoneme
 
 
-phoneme 55   //  tone: high level
+phoneme 0   //  tone: high level
   ipa ˥˥
   stress
   Tone(55, 50, envelope/p_level, NULL)
@@ -393,7 +393,7 @@ phoneme ui
   FMT(vdiph/ui)
 endphoneme
 
-phoneme ywi
+phoneme yi
   vwl  starttype #i  endtype #i
   length 250
   FMT(vdiph/yi)
@@ -417,7 +417,7 @@ phoneme ie
   FMT(vwl_zh/ie)
 endphoneme
 
-phoneme ywe  //try more so not similar to iE
+phoneme ye  //try more so not similar to iE
   vwl  starttype #i  endtype #e
   length 250
   FMT(vwl_zh/yee)

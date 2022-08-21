@@ -8,7 +8,7 @@ phoneme 1   //  tone: yinping
   ipa ˦˦
   stress
   Tone(40, 42, envelope/p_rise, NULL)
-  length 250
+  length 220
 endphoneme
 
 
@@ -24,7 +24,7 @@ phoneme 3   //  tone: shang
   ipa ˧˩
   stress
   Tone(30, 10, envelope/p_fall, NULL)
-  length 180
+  length 150
 endphoneme
 
 
@@ -40,15 +40,15 @@ phoneme 5   //  tone: ru
   ipa ˥˧
   stress
   Tone(50, 30, envelope/p_fall, NULL)
-  length 180
+  length 120
 endphoneme
 
 
 phoneme 6   //  tone: diminutive tone, yangshang
   ipa ˧˥
   stress
-  Tone(30, 50, envelope/p_rise, NULL)
-  length 200
+  Tone(30, 60, envelope/p_rise, NULL)
+  length 150
 endphoneme
 
 
@@ -282,7 +282,7 @@ phoneme tS;
   ipa tɕ
   lengthmod 2
   Vowelin f1=0  f2=2700 400 600  f3=300 80
-  WAV(ustop/tsh_pzd_unasp)
+  WAV(ustop/ts_pzd)
 endphoneme
 
 phoneme tS;h
@@ -290,7 +290,7 @@ phoneme tS;h
   ipa tɕh
   lengthmod 2
   Vowelin f1=0  f2=2700 400 600  f3=300 80
-  WAV(ustop/tsh_pzd, 80)
+  WAV(ustop/ts_pzd3, 80)
 endphoneme
 
 phoneme S;

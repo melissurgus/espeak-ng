@@ -846,6 +846,19 @@ static void CalcPitches_Tone(Translator *tr)
 				  }
 				}
 			  }
+			/* Yongfeng, per Zhu (2018)
+			ref.:https://www.globethesis.com/?t=2405330545471508 */
+			if (tr->translator_name == L3('y','f','g')){
+				if (prev_tph->mnemonic == 0x31){ // [previous one is 1st tone]
+				  // [this one is 4th or 6th tone]
+				  if (tph->mnemonic == 0x34 ||
+					  tph->mnemonic == 0x36){
+					/* trigger the tone sandhi of the prev. syllable
+					   from 1st tone ->2nd tone */
+					prev_p->tone_ph = PhonemeCode('5'); 
+				  }
+				}
+			  }
 			// Mandarin
 			if (tr->translator_name == L('z', 'h') || tr->translator_name == L3('c', 'm', 'n')) {
 				if (tone_ph == 0) {

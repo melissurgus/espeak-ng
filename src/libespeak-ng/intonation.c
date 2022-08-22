@@ -850,12 +850,45 @@ static void CalcPitches_Tone(Translator *tr)
 			ref.:https://www.globethesis.com/?t=2405330545471508 */
 			if (tr->translator_name == L3('y','f','g')){
 				if (prev_tph->mnemonic == 0x31){ // [previous one is 1st tone]
-				  // [this one is 4th or 6th tone]
-				  if (tph->mnemonic == 0x34 ||
-					  tph->mnemonic == 0x36){
+				  // [this one is a 2nd, 3rd, 4th, 6th or 8th tone]
+				  if (tph->mnemonic == 0x32 || tph->mnemonic == 0x33 || tph->mnemonic == 0x34 ||
+					  tph->mnemonic == 0x36 || tph->mnemonic == 0x38){
 					/* trigger the tone sandhi of the prev. syllable
-					   from 1st tone ->2nd tone */
+					   from 1st tone -> 5th tone */
 					prev_p->tone_ph = PhonemeCode('5'); 
+				  }
+				}
+				if (prev_tph->mnemonic == 0x33){ // [previous one is 3nd tone]
+				  // [this one is a 2nd tone]
+				  if (tph->mnemonic == 0x32){
+					/* trigger the tone sandhi of the prev. syllable
+					   from 3rd tone -> 4th tone */
+					prev_p->tone_ph = PhonemeCode('4'); 
+				  }
+				}
+				if (prev_tph->mnemonic == 0x34){ // [previous one is 4th tone]
+				  // [this one is a 2nd, 3rd, 4th, 7th or 8th tone]
+				  if (tph->mnemonic == 0x32 || tph->mnemonic == 0x33 || tph->mnemonic == 0x34 ||
+					  tph->mnemonic == 0x36 || tph->mnemonic == 0x37 || tph->mnemonic == 0x38){
+					/* trigger the tone sandhi of the prev. syllable
+					   from 4th tone -> 1st tone */
+					prev_p->tone_ph = PhonemeCode('1'); 
+				  }
+				}
+				if (prev_tph->mnemonic == 0x35){ // [previous one is a 5th tone]
+				  // [this one is a 7th tone]
+				  if (tph->mnemonic == 0x37){
+					/* trigger the tone sandhi of the prev. syllable
+					   from 5th tone -> 1st tone */
+					prev_p->tone_ph = PhonemeCode('1'); 
+				  }
+				}
+				if (prev_tph->mnemonic == 0x36){ // [previous one is a 6th tone]
+				  // [this one is a 7th tone]
+				  if (tph->mnemonic == 0x37){
+					/* trigger the tone sandhi of the prev. syllable
+					   from 6th tone -> 4th tone */
+					prev_p->tone_ph = PhonemeCode('4'); 
 				  }
 				}
 			  }

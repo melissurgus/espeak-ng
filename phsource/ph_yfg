@@ -8,7 +8,7 @@ phoneme 1   //  tone: yinping
   ipa ˦˦
   stress
   Tone(40, 42, envelope/p_rise, NULL)
-  IF nextPh(isPause2) THEN
+  IF nextPh(isPause) OR nextPh(isPause2) THEN
     length 250
   ENDIF
   length 220
@@ -17,7 +17,7 @@ endphoneme
 
 phoneme 2   //  tone: yangping, yinqu
   stress
-  IF nextPh(isPause2) THEN
+  IF nextPh(isPause) OR nextPh(isPause2) THEN
     ipa ˨˨˩
     Tone(18, 9, envelope/p_fall, NULL)
     length 450
@@ -32,7 +32,7 @@ phoneme 3   //  tone: shang
   ipa ˧˩
   stress
   Tone(30, 10, envelope/p_fall, NULL)
-  IF nextPh(isPause2) THEN
+  IF nextPh(isPause) OR nextPh(isPause2) THEN
     length 250
   ENDIF
   length 150
@@ -51,7 +51,7 @@ phoneme 5   //  tone: ru
   ipa ˥˧
   stress
   Tone(50, 30, envelope/p_fall, NULL)
-  IF nextPh(isPause2) THEN
+  IF nextPh(isPause) OR nextPh(isPause2) THEN
     length 120
   ENDIF
   length 150

@@ -61,7 +61,7 @@ endphoneme
 phoneme 6   //  tone: diminutive tone, yangshang
   ipa ˧˥
   stress
-  Tone(30, 60, envelope/p_rise, NULL)
+  Tone(40, 55, envelope/p_rise, NULL)
   length 150
 endphoneme
 

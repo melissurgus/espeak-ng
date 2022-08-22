@@ -1679,7 +1679,7 @@ _0M2 van4_|            // 10,000
 吸	S;i5
 知	tsi[1
 岁	se2
-廿	W4si[5
+廿	W4|si[5
 镀	th@4
 餐	tshan1
 伴	phuan4
@@ -2601,7 +2601,7 @@ _0M2 van4_|            // 10,000
 馆	kuan3
 昏	fuin1
 改	kua3
-呃	@33
+呃	@3|3
 毒	th@5
 独	th@5
 辅	ph@4
@@ -2616,7 +2616,7 @@ _0M2 van4_|            // 10,000
 卖	ma4
 厅	thiAN1
 紧	tS;in3
-嗯	N-42
+嗯	N-4|2
 奇	tS;hi2
 须	se1
 产	tshan3
@@ -2948,7 +2948,7 @@ _0M2 van4_|            // 10,000
 丛	tsh@N2
 挥	fe1
 笨	pan3
-播	pu1	
+播	pu1|	
 蔬	s@1
 债	tsa2
 减	kan3
@@ -3321,437 +3321,437 @@ _0M2 van4_|            // 10,000
 波	pu2
 哲	te5
 
-太阳	le5hiA0
-月亮	n^ya5kON1
-星星	sin1tsi[3
+(太 阳)	le5|hiA0
+(月 亮)	n^ya5|kON1
+(星 星)	sin1|tsi[3
 云	yin2
 风	f@N1
-台风	thua1f@N1
-闪电	iA1fu5sin2
-雷	lue2ku@N1ph@2sa5
+(台 风)	thua1|f@N1
+(闪 电)	iA1|fu5|sin2
+雷	lue2|ku@N1|ph@2|sa5
 雨	i3
-下雨	lu5i3
+(下 雨)	lu5|i3
 淋	tshO4
 晒	sA2
 雪	S;ya5
-冰	pan1lO0
-冰雹	phu5
+冰	pan1|lO0
+(冰 雹)	phu5
 霜	sON1
 雾	vv-4
-露	l@2fv-3
+露	l@2|fv-3
 虹	kON2
-日食	thien1kiO3tS;hiA5le5
-月食	thien1kiO3tS;hiA5n^ya5
-天气	thien1tS;hi0
+(日 食)	thien1|kiO3|tS;hiA5|le5
+(月 食)	thien1|kiO3|tS;hiA5|n^ya5
+(天 气)	thien1|tS;hi0
 晴	tS;hiAN2
 阴	in1
 旱	kuan1
-涝	tON3fv-3
-天亮	thien1kON1
-水田	fv-4thien2
-旱地	huan1the4
-田埂	thien1sin0
+涝	tON3|fv-3
+(天 亮)	thien1|kON1
+(水 田)	fv-4|thien2
+(旱 地)	huan1|the4
+(田 埂)	thien1|sin0
 路	l@4
 山	tiAN3
-山谷	san1khAN1te0lan2
+(山 谷)	san1|khAN1|te0|lan2
 江	kON1
-溪	pi6kON1te0
-水沟儿	pi6tuin2te0
+溪	pi6|kON1|te0
+(水 沟 儿)	pi6|tuin2|te0
 湖	vv-6
-池塘	Ne2hON2
-水坑儿	fv-3khAN1
-洪水	ha1fv-3
+(池 塘)	Ne2|hON2
+(水 坑 儿)	fv-3|khAN1
+(洪 水)	ha1|fv-3
 淹	muan2
-河岸	kON1S;ien0sON2
-坝	lan2hu2pA0
-地震	the4tin0
-窟窿	Nan3
-缝儿	f@N4
-石头	S;iA1kv-6
+(河 岸)	kON1|S;ien0|sON2
+坝	lan2|hu2|pA0
+(地 震)	the4|tin0
+(窟 窿)	Nan3
+(缝 儿)	f@N4
+(石 头)	S;iA1|kv-6
 土	th@3
-泥	le2vv-0
-水泥	iON2fe1
-沙子	sA1tsi[0
-砖	tuan1hiA0
+泥	le2|vv-0
+(水 泥)	iON2|fe1
+(沙 子)	sA1|tsi[0
+砖	tuan1|hiA0
 瓦	vua3
 煤	me2
-煤油	iON2i@2
-炭	m@5han0
+(煤 油)	iON2|i@2
+炭	m@5|han0
 灰	fe1
-灰尘	fe1thin2
+(灰 尘)	fe1|thin2
 火	fu3
 烟	ien1
-失火	si[5fu3
+(失 火)	si[5|fu3
 水	fv-3
-凉水	lAN3fv-0
-热水	kuin3fv-0
-开水	khua1fv-3
-磁铁	S;i5thie5
-时候	si[2hiA0
-什么时候	sA4ku2si[2hiA0
-现在	tien4te0
-以前	i4tS;hien2
-以后	i3hiA4
-一辈子	i5san1si[2
-今年	tS;in1n^ien2
-明年	miAN2n^ien2
-后年	hiA1n^ien2
-去年	tS;hi@N4n^ien0
-前年	tS;hien2n^ien2
-往年	kua1tS;i4n^ien2
-年初	n^ien2tsh@1
-年底	n^ien2te3
-今天	tS;in1le5
-明天	miAN2le5
-后天	hiA4le5
-大后天	ha1hiA4le5
-昨天	tshuan4le5
-前天	tS;hien2le5
-大前天	ha1tS;hien2le5
-整天	le5tA3le5
-每天	le5le5
-早晨	tiA1sin0
-上午	sON1kv-0
-中午	tien3sin6
-下午	hA1kv-0
-傍晚	NA2kv-0si[0le0
-白天	le5sin0
-夜晚	p@0sin0
-半夜	puan2iA1si[0le0
-正月	tAN1n^ya5
-大年初一	tAN1n^ya5tsh@1i5
-元宵节	n^yen2S;iO1tS;ie5
-清明	tS;hiAN1miAN2
-端午	N-4n^ya5tS;ie5
-七月十五	kue3tS;ie5
-中秋	pa5n^ya5tS;ie5
-冬至	t@N1tsi[2
-腊月	si[5W4n^ya5
-除夕	n^ien2hA1san1tsi[5
-历书	th@N1fv-1te0
-阴历	l@N2te5
-阳历	iON2te5
-星期天	te4pa2le5
-地方	thON2su3
-什么地方	sA1ku2thON2su3
-家里	ve5te3
-城里	thin2si[0lan0
-乡下	S;iON1hA1
-上面	sON4pien1
-下面	hA4pien1
-左边	tsu3pien1
-右边	i@4pien1
-中间	t@N1kan1
-前面	tS;hien2hiA2
-后面	pe2hiA0
-末尾	lu5tS;iu5
-对面	tue2mien4
-面前	Nan3kv-0te4hA1
-背后	hiA1pe2te0
-里面	ti6hiA2
-外面	Nua2hiA0
-旁边	vAN2pien1
+(凉 水)	lAN3|fv-0
+(热 水)	kuin3|fv-0
+(开 水)	khua1|fv-3
+(磁 铁)	S;i5|thie5
+(时 候)	si[2|hiA0
+(什 么 时 候)	sA4|ku2|si[2|hiA0
+(现 在)	tien4|te0
+(以 前)	i4|tS;hien2
+(以 后)	i3|hiA4
+(一 辈 子)	i5|san1|si[2
+(今 年)	tS;in1|n^ien2
+(明 年)	miAN2|n^ien2
+(后 年)	hiA1|n^ien2
+(去 年)	tS;hi@N4|n^ien0
+(前 年)	tS;hien2|n^ien2
+(往 年)	kua1|tS;i4|n^ien2
+(年 初)	n^ien2|tsh@1
+(年 底)	n^ien2|te3
+(今 天)	tS;in1|le5
+(明 天)	miAN2|le5
+(后 天)	hiA4|le5
+(大 后 天)	ha1|hiA4|le5
+(昨 天)	tshuan4|le5
+(前 天)	tS;hien2|le5
+(大 前 天)	ha1|tS;hien2|le5
+(整 天)	le5|tA3|le5
+(每 天)	le5|le5
+(早 晨)	tiA1|sin0
+(上 午)	sON1|kv-0
+(中 午)	tien3|sin6
+(下 午)	hA1|kv-0
+(傍 晚)	NA2|kv-0|si[0|le0
+(白 天)	le5|sin0
+(夜 晚)	p@0|sin0
+(半 夜)	puan2|iA1|si[0|le0
+(正 月)	tAN1|n^ya5
+(大 年 初 一)	tAN1|n^ya5|tsh@1|i5
+(元 宵 节)	n^yen2|S;iO1|tS;ie5
+(清 明)	tS;hiAN1|miAN2
+(端 午)	N-4|n^ya5|tS;ie5
+(七 月 十 五)	kue3|tS;ie5
+(中 秋)	pa5|n^ya5|tS;ie5
+(冬 至)	t@N1|tsi[2
+(腊 月)	si[5|W4|n^ya5
+(除 夕)	n^ien2|hA1|san1|tsi[5
+(历 书)	th@N1|fv-1|te0
+(阴 历)	l@N2|te5
+(阳 历)	iON2|te5
+(星 期 天)	te4|pa2|le5
+(地 方)	thON2|su3
+(什 么 地 方)	sA1|ku2|thON2|su3
+(家 里)	ve5|te3
+(城 里)	thin2|si[0|lan0
+(乡 下)	S;iON1|hA1
+(上 面)	sON4|pien1
+(下 面)	hA4|pien1
+(左 边)	tsu3|pien1
+(右 边)	i@4|pien1
+(中 间)	t@N1|kan1
+(前 面)	tS;hien2|hiA2
+(后 面)	pe2|hiA0
+(末 尾)	lu5|tS;iu5
+(对 面)	tue2|mien4
+(面 前)	Nan3|kv-0|te4|hA1
+(背 后)	hiA1|pe2|te0
+(里 面)	ti6|hiA2
+(外 面)	Nua2|hiA0
+(旁 边)	vAN2|pien1
 上	sON4
 下	hA4
-边儿	S;ien6sON1
-角儿	ku5hiA0
-上去	sON4tS;hie2
-下来	hA4la2
-进去	tsin2tS;hie2
-出来	thue5la2
-出去	thue5tS;hie2
-回来	tuan4la2
-起来	tS;hi4la2
+(边 儿)	S;ien6|sON1
+(角 儿)	ku5|hiA0
+(上 去)	sON4|tS;hie2
+(下 来)	hA4|la2
+(进 去)	tsin2|tS;hie2
+(出 来)	thue5|la2
+(出 去)	thue5|tS;hie2
+(回 来)	tuan4|la2
+(起 来)	tS;hi4|la2
 树	fv-4
-木头	m@5lO0
-松树	tS;hi@N2fv-4
-柏树	pA5ie5fv-4
-杉树	sA1fv-4
-柳树	iON2ti@0fv-4
-竹子	t@5te0
-笋	suin3te0
-叶子	ie5le0
+(木 头)	m@5|lO0
+(松 树)	tS;hi@N2|fv-4
+(柏 树)	pA5|ie5|fv-4
+(杉 树)	sA1|fv-4
+(柳 树)	iON2|ti@0|fv-4
+(竹 子)	t@5|te0
+笋	suin3|te0
+(叶 子)	ie5|le0
 花	fA1
-花蕾	fA1pON6te0
-梅花	me2fA1
-牡丹	miA3tan1
-荷花	tien2kiO3fA1
+(花 蕾)	fA1|pON6|te0
+(梅 花)	me2|fA1
+(牡 丹)	miA3|tan1
+(荷 花)	tien2|kiO3|fA1
 草	tshO3
-藤	han2te0
+藤	han2|te0
 刺	le5
-水果	fv-3ku3
-苹果	phin2ku3
-桃子	hO6te0
-梨	te6te0
-李子	te6te0
-橘子	tsue5te0
-柚子	S;iON1yen2
-柿子	pe1tsi[0
-石榴	S;iA5ti@2
-枣	tsO6te0
-栗子	hu6te5
-核桃	he5thO2
-甘蔗	tsA2kuAN0
-木耳	m@5W3te0
-蘑菇	khv-1te0
-香菇	S;iON1khv-1
-稻子	vu2
-稻谷	kv-5
-稻草	kuan3
-大麦	mA5
-小麦	mA5tsi[0
-麦秸	mA5kuAN0
-谷子	kv-5tsi[3
-高粱	S;i@0tsi[3
-玉米	pO1S;i@5
-棉花	mien2fA1
-油菜	i@2tshua0
-芝麻	mA6
-向日葵	pa2t@N1tien2
-蚕豆	tshan2hiA1tsi[0
-豌豆	van1hiA1tsi[0
-花生	fA1san1
-黄豆	vON2hiA1tsi[0
-绿豆	ti@5hiA1tsi[0
-豇豆	hiA1ku5te0
-大白菜	vON2NA1phA5
-包心菜	pO1sin1tshua2
-菠菜	pu1tshua2
-芹菜	tS;hin2tshua2
-莴笋	mA0te0lO0
-韭菜	tS;i@3tshua0
-香菜	S;iON1tshua0
-葱	tsh@N1te0
-蒜	suan2te0
-姜	tS;iON1tsi[0
-洋葱	iON2tsh@N1
-辣椒	la0tsi[0
-茄子	tS;hiu6te0
-西红柿	iON2tS;hiu6te0
-萝卜	lu2phe5
-胡萝卜	fv-2lu2phe5
-黄瓜	vON2kua1te0
-丝瓜	Ne6tsi[0
-南瓜	pe0fv-0
-荸荠	phe1tshua2
-红薯	fv-2te0
-马铃薯	iON2i6tsi[0
-芋头	i6tsi[0
-山药	fa2san1
-藕	tien2NiO3
-老虎	lO3fv-3
-猴子	hiA2te0
-蛇	S;iA2te0
-老鼠	lO3fv-3te0
-蝙蝠	hiA1in2tsha0phu0
-鸟儿	tiO6te0
-麻雀	kan1tiO6te0
-喜鹊	S;i3tS;i1tiO6
-乌鸦	pA1pA0te0
-鸽子	kua0te0
-翅膀	ie0pAN6
-爪子	tS;iu5tsO0
-尾巴	me3pAN0
+(水 果)	fv-3|ku3
+(苹 果)	phin2|ku3
+(桃 子)	hO6|te0
+梨	te6|te0
+(李 子)	te6|te0
+(橘 子)	tsue5|te0
+(柚 子)	S;iON1|yen2
+(柿 子)	pe1|tsi[0
+(石 榴)	S;iA5|ti@2
+枣	tsO6|te0
+(栗 子)	hu6|te5
+(核 桃)	he5|thO2
+(甘 蔗)	tsA2|kuAN0
+(木 耳)	m@5|W3|te0
+(蘑 菇)	khv-1|te0
+(香 菇)	S;iON1|khv-1
+(稻 子)	vu2
+(稻 谷)	kv-5
+(稻 草)	kuan3
+(大 麦)	mA5
+(小 麦)	mA5|tsi[0
+(麦 秸)	mA5|kuAN0
+(谷 子)	kv-5|tsi[3
+(高 粱)	S;i@0|tsi[3
+(玉 米)	pO1|S;i@5
+(棉 花)	mien2|fA1
+(油 菜)	i@2|tshua0
+(芝 麻)	mA6
+(向 日 葵)	pa2|t@N1|tien2
+(蚕 豆)	tshan2|hiA1|tsi[0
+(豌 豆)	van1|hiA1|tsi[0
+(花 生)	fA1|san1
+(黄 豆)	vON2|hiA1|tsi[0
+(绿 豆)	ti@5|hiA1|tsi[0
+(豇 豆)	hiA1|ku5|te0
+(大 白 菜)	vON2|NA1|phA5
+(包 心 菜)	pO1|sin1|tshua2
+(菠 菜)	pu1|tshua2
+(芹 菜)	tS;hin2|tshua2
+(莴 笋)	mA0|te0|lO0
+(韭 菜)	tS;i@3|tshua0
+(香 菜)	S;iON1|tshua0
+葱	tsh@N1|te0
+蒜	suan2|te0
+姜	tS;iON1|tsi[0
+(洋 葱)	iON2|tsh@N1
+(辣 椒)	la0|tsi[0
+(茄 子)	tS;hiu6|te0
+(西 红 柿)	iON2|tS;hiu6|te0
+(萝 卜)	lu2|phe5
+(胡 萝 卜)	fv-2|lu2|phe5
+(黄 瓜)	vON2|kua1|te0
+(丝 瓜)	Ne6|tsi[0
+(南 瓜)	pe0|fv-0
+(荸 荠)	phe1|tshua2
+(红 薯)	fv-2|te0
+(马 铃 薯)	iON2|i6|tsi[0
+(芋 头)	i6|tsi[0
+(山 药)	fa2|san1
+藕	tien2|NiO3
+(老 虎)	lO3|fv-3
+(猴 子)	hiA2|te0
+蛇	S;iA2|te0
+(老 鼠)	lO3|fv-3|te0
+(蝙 蝠)	hiA1|in2|tsha0|phu0
+(鸟 儿)	tiO6|te0
+(麻 雀)	kan1|tiO6|te0
+(喜 鹊)	S;i3|tS;i1|tiO6
+(乌 鸦)	pA1|pA0|te0
+(鸽 子)	kua0|te0
+(翅 膀)	ie0|pAN6
+(爪 子)	tS;iu5|tsO0
+(尾 巴)	me3|pAN0
 窝	S;iA3
-虫子	th@N2te0
-蝴蝶	fv-2thie0te0
-蜻蜓	khON1ka5te0
-蜜蜂	me0f@N2te0
-蜂蜜	me0hON2
-知了	S;ie2te0
-蚂蚁	mA3le0
-蚯蚓	th@3tS;i@0
+(虫 子)	th@N2|te0
+(蝴 蝶)	fv-2|thie0|te0
+(蜻 蜓)	khON1|ka5|te0
+(蜜 蜂)	me0|f@N2|te0
+(蜂 蜜)	me0|hON2
+(知 了)	S;ie2|te0
+(蚂 蚁)	mA3|le0
+(蚯 蚓)	th@3|tS;i@0
 蚕	tshan2
-蜘蛛	tS;i1kv-1te0
-蚊子	man1tsi[0
-苍蝇	in6
-跳蚤	kiO3tsO3
-虱子	se5phu0
-鱼	Ne2te0
-鲤鱼	te3te0
-鳙鱼	th@N2kv-0lO3
-鲫鱼	tse5Ne2te0
-甲鱼	tS;iu5Ne2
+(蜘 蛛)	tS;i1|kv-1|te0
+(蚊 子)	man1|tsi[0
+(苍 蝇)	in6
+(跳 蚤)	kiO3|tsO3
+(虱 子)	se5|phu0
+鱼	Ne2|te0
+(鲤 鱼)	te3|te0
+(鳙 鱼)	th@N2|kv-0|lO3
+(鲫 鱼)	tse5|Ne2|te0
+(甲 鱼)	tS;iu5|Ne2
 鳞	tin2
-虾	hA6ku@N1
-螃蟹	phA2ka0
-青蛙	han2mA2
-癞蛤蟆	th@N1m@5lO3kua5
-马	mA3te0
-驴	te2kiO1te0
-牛	n^i@2te0
-公牛	n^i@2kv-0
-母牛	n^i@2phu0
-放牛	khuan2n^i@2
-羊	iON2te0
-猪	kv-0te0
-种猪	kv-1kv-3
-公猪	kv-1kv-6te0
-母猪	kv-1phu0
-猪崽	pi6kv-1te0
-猪圈	kv-1lan2te0
-养猪	san3kv-1
-猫	miO1te0
-公猫	miO1kv-0
-母猫	miO1phu0
+虾	hA6|ku@N1
+(螃 蟹)	phA2|ka0
+(青 蛙)	han2|mA2
+(癞 蛤 蟆)	th@N1|m@5|lO3|kua5
+马	mA3|te0
+驴	te2|kiO1|te0
+牛	n^i@2|te0
+(公 牛)	n^i@2|kv-0
+(母 牛)	n^i@2|phu0
+(放 牛)	khuan2|n^i@2
+羊	iON2|te0
+猪	kv-0|te0
+(种 猪)	kv-1|kv-3
+(公 猪)	kv-1|kv-6|te0
+(母 猪)	kv-1|phu0
+(猪 崽)	pi6|kv-1|te0
+(猪 圈)	kv-1|lan2|te0
+(养 猪)	san3|kv-1
+猫	miO1|te0
+(公 猫)	miO1|kv-0
+(母 猫)	miO1|phu0
 狗	kiO3
-公狗	kiO3kv-0
-母狗	kiO3phu0
+(公 狗)	kiO3|kv-0
+(母 狗)	kiO3|phu0
 叫	tS;iO2
-兔子	th@2te0
+(兔 子)	th@2|te0
 鸡	tS;i1
-公鸡	tS;i1ku@N1
-母鸡	tS;i1phu0
+(公 鸡)	tS;i1|ku@N1
+(母 鸡)	tS;i1|phu0
 叫	the2
 下	sAN1
 孵	phO4
-鸭	Na5te0
-鹅	Nu2te0
+鸭	Na5|te0
+鹅	Nu2|te0
 阉	tuin1
 喂	tS;i@N1
-杀猪	sa5kv-1
+(杀 猪)	sa5|kv-1
 杀	phu2
-村庄	tshuin1lan0
-胡同	hON1te0
-街道	ka1sON1
-盖房子	tsi[2vv-5
-房子	vv-5te0
-屋子	fON6
-卧室	fON6lan0
-茅屋	tshO4ph@N2
-厨房	tsO2hA1
-灶	tsO2te0
-锅	vu0te0
-饭锅	vu5
-菜锅	vu5
-厕所	S;i3khAN1
-檩	thuan1fON2
-柱子	khv-4tsi[3
-大门	ha1man2
-门槛儿	man2khan3
-窗	tshON1tsi[0
-梯子	n^iA2the1
-扫帚	tS;i@6
-扫地	sO2the1hA0
-垃圾	Nua5sO0
-家具	kA1tS;hi0
-东西	t@N1se1
+(村 庄)	tshuin1|lan0
+(胡 同)	hON1|te0
+(街 道)	ka1|sON1
+(盖 房 子)	tsi[2|vv-5
+(房 子)	vv-5|te0
+(屋 子)	fON6
+(卧 室)	fON6|lan0
+(茅 屋)	tshO4|ph@N2
+(厨 房)	tsO2|hA1
+灶	tsO2|te0
+锅	vu0|te0
+(饭 锅)	vu5
+(菜 锅)	vu5
+(厕 所)	S;i3|khAN1
+檩	thuan1|fON2
+(柱 子)	khv-4|tsi[3
+(大 门)	ha1|man2
+(门 槛 儿)	man2|khan3
+窗	tshON1|tsi[0
+(梯 子)	n^iA2|the1
+(扫 帚)	tS;i@6
+(扫 地)	sO2|the1|hA0
+(垃 圾)	Nua5|sO0
+(家 具)	kA1|tS;hi0
+(东 西)	t@N1|se1
 床	sON2
-枕头	tin4hiA2
-被子	phe4vv-0
-棉絮	mO1se0
-床单	sON2tan1
-褥子	the5phe1te0
-席子	tS;hiA5te0
-蚊帐	tON2te0
-桌子	tsu5te0
-柜子	khv-6te0
-抽屉	thi@1khv-0
-案子	i3tsu5
-椅子	i3te0
-凳子	tan2te0
-马桶	fien2th@N3
-菜刀	tO1
+(枕 头)	tin4|hiA2
+(被 子)	phe4|vv-0
+(棉 絮)	mO1|se0
+(床 单)	sON2|tan1
+(褥 子)	the5|phe1|te0
+(席 子)	tS;hiA5|te0
+(蚊 帐)	tON2|te0
+(桌 子)	tsu5|te0
+(柜 子)	khv-6|te0
+(抽 屉)	thi@1|khv-0
+(案 子)	i3|tsu5
+(椅 子)	i3|te0
+(凳 子)	tan2|te0
+(马 桶)	fien2|th@N3
+(菜 刀)	tO1
 瓢	S;iu5
-缸	fv-3phAN1
-坛子	N-2te0
-瓶子	phin2te0
-盖子	kua2te0
+缸	fv-3|phAN1
+(坛 子)	N-2|te0
+(瓶 子)	phin2|te0
+(盖 子)	kua2|te0
 碗	van3
-筷子	khua2tsi[3
-汤匙	thiO2kien1
-柴火	tsha2
-火柴	iON2fv-0
-锁	su3te0
-钥匙	su4sin2
-暖水瓶	ie5fv-4phin2
-脸盆	mien2phan0
-洗脸水	se4mien2fv-3
-毛巾	S;i@3tS;in0
-手绢	S;i@3tS;in0te0
-肥皂	i2tsi[3
-梳子	lO3s@0
-缝衣针	tin1
-剪子	tS;ien3tO0
-蜡烛	la5t@5
-手电筒	thien1th@N2
-雨伞	san3
-自行车	tS;iu5thA1te0
-衣服	i1sON0
+(筷 子)	khua2|tsi[3
+(汤 匙)	thiO2|kien1
+(柴 火)	tsha2
+(火 柴)	iON2|fv-0
+锁	su3|te0
+(钥 匙)	su4|sin2
+(暖 水 瓶)	ie5|fv-4|phin2
+(脸 盆)	mien2|phan0
+(洗 脸 水)	se4|mien2|fv-3
+(毛 巾)	S;i@3|tS;in0
+(手 绢)	S;i@3|tS;in0|te0
+(肥 皂)	i2|tsi[3
+(梳 子)	lO3|s@0
+(缝 衣 针)	tin1
+(剪 子)	tS;ien3|tO0
+(蜡 烛)	la5|t@5
+(手 电 筒)	thien1|th@N2
+(雨 伞)	san3
+(自 行 车)	tS;iu5|thA1|te0
+(衣 服)	i1|sON0
 穿	tu5
 脱	hua5
 系	kien1
-衬衫	tshan4san1
-背心	pe2sin1ka5te0
-毛衣	mO2S;ien0i2
-棉衣	p@N2lan0
-袖子	san1tS;i@0
-口袋	hua1te0
-裤子	khv-2te0
-短裤	tuan3tS;iu0khv-2te0
-裤腿	khv-2tS;iu5
-帽子	mO1te0
-鞋子	ha6te0
-袜子	va5te0
-围巾	ve2tS;in1
-围裙	lan2lan1tS;hyin0
-尿布	n^iO1phien0
-扣子	n^i@3tsi[0
+(衬 衫)	tshan4|san1
+(背 心)	pe2|sin1|ka5|te0
+(毛 衣)	mO2|S;ien0|i2
+(棉 衣)	p@N2|lan0
+(袖 子)	san1|tS;i@0
+(口 袋)	hua1|te0
+(裤 子)	khv-2|te0
+(短 裤)	tuan3|tS;iu0|khv-2|te0
+(裤 腿)	khv-2|tS;iu5
+(帽 子)	mO1|te0
+(鞋 子)	ha6|te0
+(袜 子)	va5|te0
+(围 巾)	ve2|tS;in1
+(围 裙)	lan2|lan1|tS;hyin0
+(尿 布)	n^iO1|phien0
+(扣 子)	n^i@3|tsi[0
 扣	khiO1
-戒指	ka2tsi[0
-手镯	than1te0
-理发	the2lO3
-梳头	s@1lO3
-米饭	fan4
-稀饭	t@5
-面粉	mien1fien3
-面条	mien1thiO2
-面儿	fien3
-馒头	mu2mu2
-包子	pO1tsi[3
-饺子	tS;iO3tsi[3
-馄饨	pO1
-馅儿	S;ien6
-油条	i@2thiO2
-豆浆	hiA4tS;iON1
-豆腐脑	fv-3hiA4fv-0te0
-元宵	hON1yen2
-粽子	ts@N6
-年糕	mA2tsi[2
-点心	kO1tien3
+(戒 指)	ka2|tsi[0
+(手 镯)	than1|te0
+(理 发)	the2|lO3
+(梳 头)	s@1|lO3
+(米 饭)	fan4
+(稀 饭)	t@5
+(面 粉)	mien1|fien3
+(面 条)	mien1|thiO2
+(面 儿)	fien3
+(馒 头)	mu2|mu2
+(包 子)	pO1|tsi[3
+(饺 子)	tS;iO3|tsi[3
+(馄 饨)	pO1
+(馅 儿)	S;ien6
+(油 条)	i@2|thiO2
+(豆 浆)	hiA4|tS;iON1
+(豆 腐 脑)	fv-3|hiA4|fv-0|te0
+(元 宵)	hON1|yen2
+(粽 子)	ts@N6
+(年 糕)	mA2|tsi[2
+(点 心)	kO1|tien3
 菜	tshua2
-干菜	tshua2kuan0
-豆腐	hiA1fv-0
-猪血	kv-1vON4
-猪蹄	kv-1tS;iu5
-猪舌头	te1tsi[3
-猪肝	kv-1kuan1
-下水	tsha0
-鸡蛋	pu1pu0
-松花蛋	phe2than1
-猪油	kv-1i@2
-香油	S;iON1i@2
-酱油	tS;iON2i@2
+(干 菜)	tshua2|kuan0
+(豆 腐)	hiA1|fv-0
+(猪 血)	kv-1|vON4
+(猪 蹄)	kv-1|tS;iu5
+(猪 舌 头)	te1|tsi[3
+(猪 肝)	kv-1|kuan1
+(下 水)	tsha0
+(鸡 蛋)	pu1|pu0
+(松 花 蛋)	phe2|than1
+(猪 油)	kv-1|i@2
+(香 油)	S;iON1|i@2
+(酱 油)	tS;iON2|i@2
 盐	ien2
-醋	thien2tS;i@0
-香烟	ien1
-旱烟	thiA2ien1
-白酒	S;iO1tS;i@3
-黄酒	fv-3tS;i@0
-江米酒	t@N1tS;i@3
-茶叶	tshA2ie5
+醋	thien2|tS;i@0
+(香 烟)	ien1
+(旱 烟)	thiA2|ien1
+(白 酒)	S;iO1|tS;i@3
+(黄 酒)	fv-3|tS;i@0
+(江 米 酒)	t@N1|tS;i@3
+(茶 叶)	tshA2|ie5
 沏	phO2
-冰棍儿	pin1pON3
-做饭	vv-3fan4
-炒菜	tshO4tshua2
+(冰 棍 儿)	pin1|pON3
+(做 饭)	vv-3|fan4
+(炒 菜)	tshO4|tshua2
 煮	kv-3
 煎	tS;ien1
 炸	phO2
 蒸	tin1
 揉	tS;hiA3
-吃早饭	tS;hiA5tsO3sin0fan4
-吃午饭	tS;hiA5tien3sin0fan4
-吃晚饭	tS;hiA5NA2kv-0fan4
+(吃 早 饭)	tS;hiA5|tsO3|sin0|fan4
+(吃 午 饭)	tS;hiA5|tien3|sin0|fan4
+(吃 晚 饭)	tS;hiA5|NA2|kv-0|fan4
 吃	tS;hiA5
 喝	tS;hiA5
 抽	tS;hiA5
@@ -3761,311 +3761,311 @@ _0M2 van4_|            // 10,000
 渴	kuan1
 饿	Nu4
 噎	se5
-头	lO3khu0
-头发	hiA2fa5
-辫子	pien1te0
+头	lO3|khu0
+(头 发)	hiA2|fa5
+(辫 子)	pien1|te0
 旋	tS;hyen4
-额头	miA5min0
-相貌	tON4S;iON2
+(额 头)	miA5|min0
+(相 貌)	tON4|S;iON2
 脸	mien2
-眼睛	Nan3kv-0
-眼珠	Nan3kv-1n^in6
-眼泪	Nan3te0
-眉毛	min2mO2
-耳朵	W3tO3
-鼻子	phe1tsi[0
-鼻涕	phi1n^in0
+(眼 睛)	Nan3|kv-0
+(眼 珠)	Nan3|kv-1|n^in6
+(眼 泪)	Nan3|te0
+(眉 毛)	min2|mO2
+(耳 朵)	W3|tO3
+(鼻 子)	phe1|tsi[0
+(鼻 涕)	phi1|n^in0
 擤	san2
-嘴巴	tse3
-嘴唇	tse3S;ien0
-口水	khiO3fv-3
-舌头	S;ie5tse0
-牙齿	NA2tshi[3
-下巴	hA1NA2kA2
-胡子	se1te0
-脖子	tS;iAN3
-喉咙	hiA2l@N2kuan0
-肩膀	tS;ien1kv-0
-胳膊	S;i@3kuAN0
+(嘴 巴)	tse3
+(嘴 唇)	tse3|S;ien0
+(口 水)	khiO3|fv-3
+(舌 头)	S;ie5|tse0
+(牙 齿)	NA2|tshi[3
+(下 巴)	hA1|NA2|kA2
+(胡 子)	se1|te0
+(脖 子)	tS;iAN3
+(喉 咙)	hiA2|l@N2|kuan0
+(肩 膀)	tS;ien1|kv-0
+(胳 膊)	S;i@3|kuAN0
 手	S;i@3
-左手	tsu3S;i@3
-右手	i@4S;i@3
-拳头	tS;hyen2kv-0
-手指	S;i@3tsi[0
-大拇指	S;i@3tsi[0lO3
-食指	si[0tsi[3
-中指	t@N1tsi[3
-无名指	vv-2min2tsi[3
-小拇指	pi6S;i@3tsi[0
-指甲	S;i@3tsO3
+(左 手)	tsu3|S;i@3
+(右 手)	i@4|S;i@3
+(拳 头)	tS;hyen2|kv-0
+(手 指)	S;i@3|tsi[0
+(大 拇 指)	S;i@3|tsi[0|lO3
+(食 指)	si[0|tsi[3
+(中 指)	t@N1|tsi[3
+(无 名 指)	vv-2|min2|tsi[3
+(小 拇 指)	pi6|S;i@3|tsi[0
+(指 甲)	S;i@3|tsO3
 脚	tS;iu5
-膝盖	phA2ka3te0
+(膝 盖)	phA2|ka3|te0
 背	pe2
-肚子	t@3te0
-肚脐	t@3tsi[0Nan3
-乳房	la4te0
-屁股	phe2kv-3
-肛门	phe2kv-3Nan4
-阴茎	luan3
-女阴	pie5
-肏	tiO3pie5
-精液	luan3tS;iON1
-来月经	se3sin1sON0
-拉屎	vu1S;i3
-撒尿	vu1n^iO4
-放屁	tA4phe2
-相当于“他妈的”的口头禅	tiO3le1n^iON2
-病了	phiAN4
-着凉	lAN3le0
-咳嗽	khe5
-发烧	fa5S;iO1
-发抖	tA3tiA3
-肚子疼	t@3te0th@N2
-拉肚子	S;ie5t@3te0
-患疟疾	tA3pa3tsi[3
-中暑	t@N1fv-3
+(肚 子)	t@3|te0
+(肚 脐)	t@3|tsi[0|Nan3
+(乳 房)	la4|te0
+(屁 股)	phe2|kv-3
+(肛 门)	phe2|kv-3|Nan4
+(阴 茎)	luan3
+(女 阴)	pie5
+肏	tiO3|pie5
+(精 液)	luan3|tS;iON1
+(来 月 经)	se3|sin1|sON0
+(拉 屎)	vu1|S;i3
+(撒 尿)	vu1|n^iO4
+(放 屁)	tA4|phe2
+相 当 于 “他 妈 的 ”(的 口 头 禅)	tiO3|le1|n^iON2
+(病 了)	phiAN4
+(着 凉)	lAN3|le0
+(咳 嗽)	khe5
+(发 烧)	fa5|S;iO1
+(发 抖)	tA3|tiA3
+(肚 子 疼)	t@3|te0|th@N2
+(拉 肚 子)	S;ie5|t@3|te0
+(患 疟 疾)	tA3|pa3|tsi[3
+(中 暑)	t@N1|fv-3
 肿	t@N3
-化脓	thue5l@N2
-疤	tS;ie5pA1
+(化 脓)	thue5|l@N2
+疤	tS;ie5|pA1
 癣	S;yen3
 痣	tS;i2
-疙瘩	phO6te0
-狐臭	vv-2i5sO1
-看病	khuan2phiAN4
-诊脉	lan3mA5
-针灸	tin1tS;i@2
-打针	tA3tin1
-打吊针	tA4tiO2tin1
-吃药	tS;hiA5iu5
-汤药	hO1tshA2
-病轻了	phiAN1hO4le0
-说媒	tsi[2mua2n^in2
-媒人	mua2n^in2phu0
-相亲	vA1lO4phu2
-订婚	sO3kA1
-嫁妆	kA2tsON1
-结婚	tS;ie5fin1
-娶妻子	tshe3lO4phu2
-出嫁	thue5kA2
-拜堂	pa2hON2
-新郎	sin1lON2kuan1
-新娘子	sin1n^in2
-孕妇	va2tsa3phu0
-怀孕	i@4le0
-害喜	thue5S;iON2
-分娩	sAN1tsa3
-流产	lu5phu1le0
-双胞胎	sON1pO1thua2
-坐月子	tshu4n^ya5tsi[3
-吃奶	tS;hiA5la6
-断奶	tsA5la6
-满月	muan3n^ya5
-生日	sAN1le5
-做寿	tsi[2sAN1le5
+(疙 瘩)	phO6|te0
+(狐 臭)	vv-2|i5|sO1
+(看 病)	khuan2|phiAN4
+(诊 脉)	lan3|mA5
+(针 灸)	tin1|tS;i@2
+(打 针)	tA3|tin1
+(打 吊 针)	tA4|tiO2|tin1
+(吃 药)	tS;hiA5|iu5
+(汤 药)	hO1|tshA2
+(病 轻 了)	phiAN1|hO4|le0
+(说 媒)	tsi[2|mua2|n^in2
+(媒 人)	mua2|n^in2|phu0
+(相 亲)	vA1|lO4|phu2
+(订 婚)	sO3|kA1
+(嫁 妆)	kA2|tsON1
+(结 婚)	tS;ie5|fin1
+(娶 妻 子)	tshe3|lO4|phu2
+(出 嫁)	thue5|kA2
+(拜 堂)	pa2|hON2
+(新 郎)	sin1|lON2|kuan1
+(新 娘 子)	sin1|n^in2
+(孕 妇)	va2|tsa3|phu0
+(怀 孕)	i@4|le0
+(害 喜)	thue5|S;iON2
+(分 娩)	sAN1|tsa3
+(流 产)	lu5|phu1|le0
+(双 胞 胎)	sON1|pO1|thua2
+(坐 月 子)	tshu4|n^ya5|tsi[3
+(吃 奶)	tS;hiA5|la6
+(断 奶)	tsA5|la6
+(满 月)	muan3|n^ya5
+(生 日)	sAN1|le5
+(做 寿)	tsi[2|sAN1|le5
 死	si[3
 死	kv-0
-自杀	tshi[4sa5
-咽气	huan4tS;hi2
-入殓	i5kuan1
-棺材	S;i@4m@5
-出殡	thue5tsON2
-灵位	tin2tin6pha0
-坟墓	mu2te0lO3
-上坟	kua2tS;hiAN1
-纸钱	tS;hien2tsi[3
-老天爷	lO3thien1iA2
-菩萨	ph@2sa5
-观音	kuan1in1ph@2sa5
-灶神	tsO2sin2ph@2sa5
-寺庙	miO1lan0
-祠堂	si[2hON2
-和尚	vu2S;iON2
-尼姑	le2kv-1
-道士	hO1si[2
-算命	suan2pa5tshi[4
-运气	yin4tS;hi2
-保佑	pO3i@4
+(自 杀)	tshi[4|sa5
+(咽 气)	huan4|tS;hi2
+(入 殓)	i5|kuan1
+(棺 材)	S;i@4|m@5
+(出 殡)	thue5|tsON2
+(灵 位)	tin2|tin6|pha0
+(坟 墓)	mu2|te0|lO3
+(上 坟)	kua2|tS;hiAN1
+(纸 钱)	tS;hien2|tsi[3
+(老 天 爷)	lO3|thien1|iA2
+(菩 萨)	ph@2|sa5
+(观 音)	kuan1|in1|ph@2|sa5
+(灶 神)	tsO2|sin2|ph@2|sa5
+(寺 庙)	miO1|lan0
+(祠 堂)	si[2|hON2
+(和 尚)	vu2|S;iON2
+(尼 姑)	le2|kv-1
+(道 士)	hO1|si[2
+(算 命)	suan2|pa5|tshi[4
+(运 气)	yin4|tS;hi2
+(保 佑)	pO3|i@4
 人	n^in2
-男人	lan2tsi[3n^in0
-女人	S;iON6n^in2
-单身汉	kON1kuin0
-老姑娘	lO3S;iON3n^iON0
-婴儿	mO6NA1te0
-小孩	pi6sin2n^in0
-男孩	tsa6tS;i3
-女孩	le3te0
-老人	lO3tA1
-亲戚	tshin1tshin1
-朋友	ph@N2i@3
-邻居	ka5piA5tin2S;iA3
-客人	khA5
-农民	tsu5thien2n^in2
-商人	tsi[2san1i2ku2
-手艺人	tsi[2S;i@3le5ku2
-泥水匠	le2fv-0S;iON1
-木匠	m@5S;iON1
-裁缝	tshua2f@N2
-理发师	the2lO4ku2
-厨师	khv-2si[1
-师傅	si[5fv-1
-徒弟	th@2the1
-乞丐	kO2fA2tsi[3
-妓女	tsi[0le3
-流氓	n^i@2mON2
-贼	tshe5kv-0
-瞎子	ha5tsi[3
-聋子	l@N1kv-0
-哑巴	NA3tsi[3
-驼子	hu6pe1
-瘸子	tS;hiu2kv-0
-疯子	tien1tsi[3
-傻子	thuin3tsi[3
-笨蛋	thuin3tsi[3
-爷爷	iA2iA0
-奶奶	phu2phu0
-外祖父	Nua2ku@N1
-外祖母	Nua2phu0
-父母	tiA1n^iON2
-父亲	tiA1lO0
-母亲	i2iA0
-爸爸	pA1pA0
-妈妈	i2iA0
-继父	tS;i2tiA1lO0
-继母	hiA1m@3
-岳父	thON4n^in2
-岳母	thON4m@N0
-公公	kA1ku@N1
-婆婆	kA1phu0
-伯父	ha4pA6
-伯母	ha4tS;iA1
-叔父	S;i@0S;i@0
-排行最小的叔父	S;iO3S;i@0
-叔母	m@N6m@N2
-姑	kv-1kv-0
-姑父	kv-6fv-1
-舅舅	tS;hi@6tS;hi@0
-舅妈	tS;hi@6m@N3
-姨	i2n^iON2
-姨父	i2fv-1
-弟兄	S;iAN1the4
-姊妹	tsi[3mua0
-哥哥	ku1ku0
-嫂子	sO3sO0
-弟弟	lO4the4
-弟媳	the1fv-1te0
-姐姐	tse0tse0
-姐夫	tse3fv-0
-妹妹	mua0te0
-妹夫	mua0fv-1
-堂兄弟	thON2S;iAN1the4
-表兄弟	piO3S;iAN1the4
-妯娌	S;i@5pA5fA1m@N6
-连襟	tiON3i2thON1
-儿子	tsa3
-儿媳妇	sin1fv-1
-女儿	le3
-女婿	kv-1thON1
-女婿	kv-1iA2
-孙子	suin6te0
-重孙子	tshan2suin6te0
-侄子	tshi[5n^in2
-外甥	Nua2san1
-外孙	Nua2san1suin1
-夫妻	tiON3ku@N1phu0
-丈夫	lO3ku@N1
-妻子	lO3phu0
-名字	miAN2tshi[1
-绰号	iA3miAN0
-干活儿	tsi[1si[4
-事情	si[4
-插秧	si[4vu2
-割稻	kua5vu2
-种菜	si[4tshua2
+(男 人)	lan2|tsi[3|n^in0
+(女 人)	S;iON6|n^in2
+(单 身 汉)	kON1|kuin0
+(老 姑 娘)	lO3|S;iON3|n^iON0
+(婴 儿)	mO6|NA1|te0
+(小 孩)	pi6|sin2|n^in0
+(男 孩)	tsa6|tS;i3
+(女 孩)	le3|te0
+(老 人)	lO3|tA1
+(亲 戚)	tshin1|tshin1
+(朋 友)	ph@N2|i@3
+(邻 居)	ka5|piA5|tin2|S;iA3
+(客 人)	khA5
+(农 民)	tsu5|thien2|n^in2
+(商 人)	tsi[2|san1|i2|ku2
+(手 艺 人)	tsi[2|S;i@3|le5|ku2
+(泥 水 匠)	le2|fv-0|S;iON1
+(木 匠)	m@5|S;iON1
+(裁 缝)	tshua2|f@N2
+(理 发 师)	the2|lO4|ku2
+(厨 师)	khv-2|si[1
+(师 傅)	si[5|fv-1
+(徒 弟)	th@2|the1
+(乞 丐)	kO2|fA2|tsi[3
+(妓 女)	tsi[0|le3
+(流 氓)	n^i@2|mON2
+贼	tshe5|kv-0
+(瞎 子)	ha5|tsi[3
+(聋 子)	l@N1|kv-0
+(哑 巴)	NA3|tsi[3
+(驼 子)	hu6|pe1
+(瘸 子)	tS;hiu2|kv-0
+(疯 子)	tien1|tsi[3
+(傻 子)	thuin3|tsi[3
+(笨 蛋)	thuin3|tsi[3
+(爷 爷)	iA2|iA0
+(奶 奶)	phu2|phu0
+(外 祖 父)	Nua2|ku@N1
+(外 祖 母)	Nua2|phu0
+(父 母)	tiA1|n^iON2
+(父 亲)	tiA1|lO0
+(母 亲)	i2|iA0
+(爸 爸)	pA1|pA0
+(妈 妈)	i2|iA0
+(继 父)	tS;i2|tiA1|lO0
+(继 母)	hiA1|m@3
+(岳 父)	thON4|n^in2
+(岳 母)	thON4|m@N0
+(公 公)	kA1|ku@N1
+(婆 婆)	kA1|phu0
+(伯 父)	ha4|pA6
+(伯 母)	ha4|tS;iA1
+(叔 父)	S;i@0|S;i@0
+(排 行 最 小 的 叔 父)	S;iO3|S;i@0
+(叔 母)	m@N6|m@N2
+姑	kv-1|kv-0
+(姑 父)	kv-6|fv-1
+(舅 舅)	tS;hi@6|tS;hi@0
+(舅 妈)	tS;hi@6|m@N3
+姨	i2|n^iON2
+(姨 父)	i2|fv-1
+(弟 兄)	S;iAN1|the4
+(姊 妹)	tsi[3|mua0
+(哥 哥)	ku1|ku0
+(嫂 子)	sO3|sO0
+(弟 弟)	lO4|the4
+(弟 媳)	the1|fv-1|te0
+(姐 姐)	tse0|tse0
+(姐 夫)	tse3|fv-0
+(妹 妹)	mua0|te0
+(妹 夫)	mua0|fv-1
+(堂 兄 弟)	thON2|S;iAN1|the4
+(表 兄 弟)	piO3|S;iAN1|the4
+(妯 娌)	S;i@5|pA5|fA1|m@N6
+(连 襟)	tiON3|i2|thON1
+(儿 子)	tsa3
+(儿 媳 妇)	sin1|fv-1
+(女 儿)	le3
+(女 婿)	kv-1|thON1
+(女 婿)	kv-1|iA2
+(孙 子)	suin6|te0
+(重 孙 子)	tshan2|suin6|te0
+(侄 子)	tshi[5|n^in2
+(外 甥)	Nua2|san1
+(外 孙)	Nua2|san1|suin1
+(夫 妻)	tiON3|ku@N1|phu0
+(丈 夫)	lO3|ku@N1
+(妻 子)	lO3|phu0
+(名 字)	miAN2|tshi[1
+(绰 号)	iA3|miAN0
+(干 活 儿)	tsi[1|si[4
+(事 情)	si[4
+(插 秧)	si[4|vu2
+(割 稻)	kua5|vu2
+(种 菜)	si[4|tshua2
 犁	te2
-锄头	phA6te0
-镰刀	vu2tien0
-把儿	pA2
-扁担	pien3tan0
-箩筐	lu2te0
-筛子	sa1si[3
-簸箕	lan6phan0
-簸箕	tshua5tiA3
-独轮车	thA1te0
-轮子	luin2tsi[3
-碓	tua2tS;hi@0
+(锄 头)	phA6|te0
+(镰 刀)	vu2|tien0
+(把 儿)	pA2
+(扁 担)	pien3|tan0
+(箩 筐)	lu2|te0
+(筛 子)	sa1|si[3
+(簸 箕)	lan6|phan0
+(簸 箕)	tshua5|tiA3
+(独 轮 车)	thA1|te0
+(轮 子)	luin2|tsi[3
+碓	tua2|tS;hi@0
 臼	tS;hi@0
-磨	mu4te0
-年成	n^ien2tshin2
-走江湖	phiO1kON1fv-2ku2
-打工	kO4fv-2n^ie5
-斧子	fu4hiA2
-钳子	tS;hien2te0
-螺丝刀	lO2si[1tO1
-锤子	thie5khv-2te0
-钉子	tiAN1te0
-绳子	S;in2te0
-棍子	kuin6te0
-做买卖	tsi[2san1i2
-商店	S;iON1tien0
-饭馆	fan6tien0
-旅馆	te3S;iA4
+磨	mu4|te0
+(年 成)	n^ien2|tshin2
+(走 江 湖)	phiO1|kON1|fv-2|ku2
+(打 工)	kO4|fv-2|n^ie5
+(斧 子)	fu4|hiA2
+(钳 子)	tS;hien2|te0
+(螺 丝 刀)	lO2|si[1|tO1
+(锤 子)	thie5|khv-2|te0
+(钉 子)	tiAN1|te0
+(绳 子)	S;in2|te0
+(棍 子)	kuin6|te0
+(做 买 卖)	tsi[2|san1|i2
+(商 店)	S;iON1|tien0
+(饭 馆)	fan6|tien0
+(旅 馆)	te3|S;iA4
 贵	kue2
-便宜	phien2i2
-合算	fA2suan2
-折扣	te5
-亏本	S;ie5pan3
-钱	phiO2te0
-零钱	tiAN2phiO2te0
-硬币	khu5te0
-本钱	pan4tS;hien2
-工钱	ku@N1tS;hien2
-路费	l@1fe6
+(便 宜)	phien2|i2
+(合 算)	fA2|suan2
+(折 扣)	te5
+(亏 本)	S;ie5|pan3
+钱	phiO2|te0
+(零 钱)	tiAN2|phiO2|te0
+(硬 币)	khu5|te0
+(本 钱)	pan4|tS;hien2
+(工 钱)	ku@N1|tS;hien2
+(路 费)	l@1|fe6
 花	i@N4
 赚	tshan4
 挣	tshan4
 欠	tS;hien2
-算盘	suan2phan0
-秤	thin2te0
+(算 盘)	suan2|phan0
+秤	thin2|te0
 称	thin1
-赶集	tON1S;i1
-集市	S;i1te0sON1
-庙会	miO1fe4
-学校	hu1thON2lan0
-教室	kO2si[2
-上学	tS;hie2hu5thON2lan0
-放学	fON2hu5
-考试	kO3si[0
-书包	fv-1pO1
-本子	ph@1te0
-铅笔	yen2pe5
-钢笔	kON1pe5
-圆珠笔	yen2kv-1pe5
-毛笔	mO2pe5
-墨	me5fv-3
-砚台	mien1tsi[3
+(赶 集)	tON1|S;i1
+(集 市)	S;i1|te0|sON1
+(庙 会)	miO1|fe4
+(学 校)	hu1|thON2|lan0
+(教 室)	kO2|si[2
+(上 学)	tS;hie2|hu5|thON2|lan0
+(放 学)	fON2|hu5
+(考 试)	kO3|si[0
+(书 包)	fv-1|pO1
+(本 子)	ph@1|te0
+(铅 笔)	yen2|pe5
+(钢 笔)	kON1|pe5
+(圆 珠 笔)	yen2|kv-1|pe5
+(毛 笔)	mO2|pe5
+墨	me5|fv-3
+(砚 台)	mien1|tsi[3
 信	sin2
-连环画	th@2fv-1te0
-捉迷藏	tsu5mAN1mAN0lO3fv-3
-跳绳	thiO2S;in2
-毽子	S;i@2tsi[3
-风筝	f@N1tsan1
-舞狮	kuin3si[1tsi[3
-鞭炮	pO1th@N1
-唱歌	thON2ku1te0
-演戏	ien4tS;hi2te0
-锣鼓	lu2kv-3
-二胡	fv-2tS;hin2
-笛子	the6te0
-划拳	fA2tS;hyen2
-下棋	tS;iA4tS;hi2
-打扑克	tA3ph@5khe2
-打麻将	tA4mA2tS;iON0
-变魔术	pien2pA3pA3tS;hi6
-讲故事	hu5thuan4
-猜谜语	tA3kv-3
-玩儿	n^i5hA1te0
-串门儿	phiO1ha1te0
-走亲戚	tsi[2khA5
+(连 环 画)	th@2|fv-1|te0
+(捉 迷 藏)	tsu5|mAN1|mAN0|lO3|fv-3
+(跳 绳)	thiO2|S;in2
+(毽 子)	S;i@2|tsi[3
+(风 筝)	f@N1|tsan1
+(舞 狮)	kuin3|si[1|tsi[3
+(鞭 炮)	pO1|th@N1
+(唱 歌)	thON2|ku1|te0
+(演 戏)	ien4|tS;hi2|te0
+(锣 鼓)	lu2|kv-3
+(二 胡)	fv-2|tS;hin2
+(笛 子)	the6|te0
+(划 拳)	fA2|tS;hyen2
+(下 棋)	tS;iA4|tS;hi2
+(打 扑 克)	tA3|ph@5|khe2
+(打 麻 将)	tA4|mA2|tS;iON0
+(变 魔 术)	pien2|pA3|pA3|tS;hi6
+(讲 故 事)	hu5|thuan4
+(猜 谜 语)	tA3|kv-3
+(玩 儿)	n^i5|hA1|te0
+(串 门 儿)	phiO1|ha1|te0
+(走 亲 戚)	tsi[2|khA5
 看	khuan2
 听	thiAN1
 闻	S;i@2
@@ -4080,10 +4080,10 @@ _0M2 van4_|            // 10,000
 咽	han1
 舔	S;ie2
 含	t@3
-亲嘴	pe6tse3
-吮吸	han1
+(亲 嘴)	pe6|tse3
+(吮 吸)	han1
 吐	NiO3
-打喷嚏	tA3ha5tS;hi2
+(打 喷 嚏)	tA3|ha5|tS;hi2
 拿	lA5
 给	pA3
 摸	mu1
@@ -4108,7 +4108,7 @@ _0M2 van4_|            // 10,000
 翘	tS;hiO6
 弯	tshin3
 挺	thin3
-趴	Nan4ph@5
+趴	Nan4|ph@5
 爬	phA2
 走	hAN2
 跑	tS;iA3
@@ -4136,9 +4136,9 @@ _0M2 van4_|            // 10,000
 砍	tu5
 剁	tu2
 削	the5
-裂	pAN1tshA5
+裂	pAN1|tshA5
 皱	tsh@N6
-腐烂	i@N2
+(腐 烂)	i@N2
 擦	mua5
 倒	tO3
 扔	tiAN1
@@ -4155,7 +4155,7 @@ _0M2 van4_|            // 10,000
 撑	tshAN1
 撬	tS;hiO3
 挑	kan3
-收拾	tS;ien3
+(收 拾)	tS;ien3
 挽	tsa5
 涮	thON3
 洗	se3
@@ -4172,77 +4172,77 @@ _0M2 van4_|            // 10,000
 转	tuan6
 捶	t@N4
 打	tA3
-打架	tA4kA2
-休息	S;ie5
-打哈欠	hu1ien2tA4phA5
-打瞌睡	Nan3me1me1le0
+(打 架)	tA4|kA2
+(休 息)	S;ie5
+(打 哈 欠)	hu1|ien2|tA4|phA5
+(打 瞌 睡)	Nan3|me1|me1|le0
 睡	kua5
-打呼噜	tA3fv-1l@3
-做梦	tsi[2m@N4
-起床	thiO2tS;hi3
-刷牙	sua5NA2
-洗澡	se3tsO3
+(打 呼 噜)	tA3|fv-1|l@3
+(做 梦)	tsi[2|m@N4
+(起 床)	thiO2|tS;hi3
+(刷 牙)	sua5|NA2
+(洗 澡)	se3|tsO3
 想	S;iON3
-打算	tA4suan2
-记得	tS;i2te5
-忘记	pue5tS;i2te0
+(打 算)	tA4|suan2
+(记 得)	tS;i2|te5
+(忘 记)	pue5|tS;i2|te0
 怕	phA2
-相信	S;iON2sin1
-发愁	ke5
-小心	hO3tAN6le0
-喜欢	S;i3fuan1
-讨厌	S;ien2
-舒服	fv-6fv-6
-难受	lan2ku2si[2
-难过	lan2S;i@4
-高兴	S;i3huan1
-生气	fa5fu3
-责怪	kua2
-后悔	hiA4fe3
-忌妒	Nan4f@N2
-害羞	pue5hO4i2si[2
-丢脸	ti5kv-3
-欺负	tS;hi1fv-1
+(相 信)	S;iON2|sin1
+(发 愁)	ke5
+(小 心)	hO3|tAN6|le0
+(喜 欢)	S;i3|fuan1
+(讨 厌)	S;ien2
+(舒 服)	fv-6|fv-6
+(难 受)	lan2|ku2|si[2
+(难 过)	lan2|S;i@4
+(高 兴)	S;i3|huan1
+(生 气)	fa5|fu3
+(责 怪)	kua2
+(后 悔)	hiA4|fe3
+(忌 妒)	Nan4|f@N2
+(害 羞)	pue5|hO4|i2|si[2
+(丢 脸)	ti5|kv-3
+(欺 负)	tS;hi1|fv-1
 装	tsON1
-疼	sin1th@N2
+疼	sin1|th@N2
 要	iO2
 有	i@3
-没有	mO4
+(没 有)	mO4
 是	si[1
-不是	pue5si[1
+(不 是)	pue5|si[1
 在	he5
-不在	mO4he5
-知道	S;iO3te0
-不知道	pue5S;iO3te0
+(不 在)	mO4|he5
+(知 道)	S;iO3|te0
+(不 知 道)	pue5|S;iO3|te0
 懂	t@N3
-不懂	pue5t@N3
+(不 懂)	pue5|t@N3
 会	fe4
-不会	pue5ve4
-认识	in4te0
-不认识	pue5in4te0
-行	tsi[2te5
-不行	mO4pan3
+(不 会)	pue5|ve4
+(认 识)	in4|te0
+(不 认 识)	pue5|in4|te0
+行	tsi[2|te5
+(不 行)	mO4|pan3
 肯	khien3
-应该	in2tON1
-可以	khu3i3
+(应 该)	in2|tON1
+(可 以)	khu3|i3
 说	vA4
 话	si[4
-聊天儿	thiA1thien1
+(聊 天 儿)	thiA1|thien1
 叫	va3
-吆喝	va3
+(吆 喝)	va3
 哭	khv-5
 骂	mA2
-吵架	kON3khiO3
+(吵 架)	kON3|khiO3
 骗	S;iu5
 哄	the5
-撒谎	tA3the5
-吹牛	khv-1n^i@2phe2
-拍马屁	tS;hien1fv-3i6te0ku5
-开玩笑	khua1van4S;iO0
-告诉	vA4tS;hi3
-谢谢	lan2van2le1
-对不起	pue5hO4i2si[2
-再见	hO3tAN6hAN2
+(撒 谎)	tA3|the5
+(吹 牛)	khv-1|n^i@2|phe2
+(拍 马 屁)	tS;hien1|fv-3|i6|te0|ku5
+(开 玩 笑)	khua1|van4|S;iO0
+(告 诉)	vA4|tS;hi3
+(谢 谢)	lan2|van2|le1
+(对 不 起)	pue5|hO4|i2|si[2
+(再 见)	hO3|tAN6|hAN2
 大	ha4
 小	se2
 粗	tsh@1
@@ -4252,7 +4252,7 @@ _0M2 van4_|            // 10,000
 长	thON2
 短	tuan3
 宽	kua5
-宽敞	ha4
+(宽 敞)	ha4
 窄	ha5
 高	kO1
 低	Na3
@@ -4298,15 +4298,15 @@ _0M2 van4_|            // 10,000
 亮	kON1
 黑	Nuan2
 热	ie5
-暖和	luan4fe5
+(暖 和)	luan4|fe5
 凉	lAN3
 冷	lAN3
 热	kuin3
 凉	lAN3
 干	tsO2
 湿	si[5
-干净	tS;iAN1tS;i5
-脏	kua5la5
+(干 净)	tS;iAN1|tS;i5
+脏	kua5|la5
 快	khua2
 钝	Nu2
 快	khua2
@@ -4315,30 +4315,30 @@ _0M2 van4_|            // 10,000
 晚	Nuan2
 松	s@N1
 紧	tS;in3
-容易	i6te5
+(容 易)	i6|te5
 难	lan2
 新	sin1
 旧	tS;hi@4
 老	lO3
-年轻	hiA4sAN1
+(年 轻)	hiA4|sAN1
 软	n^yen3
 硬	NAN4
 烂	lan4
 糊	vv-6
-结实	tS;in1i@N4
+(结 实)	tS;in1|i@N4
 破	lan4
 富	i@3
 穷	tS;hi@N2
-忙	si[4tu1
+忙	si[4|tu1
 闲	han2
 累	lua4
 疼	th@N2
 痒	iON4
-热闹	lO4f@N1
-熟悉	S;i@5thO2
-陌生	sAN1tON2
-味道	ve4thO4
-气味	tS;hi4ve4
+(热 闹)	lO4|f@N1
+(熟 悉)	S;i@5|thO2
+(陌 生)	sAN1|tON2
+(味 道)	ve4|thO4
+(气 味)	tS;hi4|ve4
 咸	han2
 淡	than4
 酸	suan1
@@ -4355,19 +4355,19 @@ _0M2 van4_|            // 10,000
 差	tshA1
 对	tue2
 错	tshu1
-漂亮	S;i5tsi[3
+(漂 亮)	S;i5|tsi[3
 丑	S;i@N2
-勤快	tS;in2tS;in2
+(勤 快)	tS;in2|tS;in2
 懒	lan3
 乖	kua1
-顽皮	tiO1
-老实	lO4si[5
+(顽 皮)	tiO1
+(老 实)	lO4|si[5
 傻	thuin3
 笨	thuin3
-大方	S;iA3te5
-小气	S;iO4tS;hi2
-直爽	tshi[5
-犟	vAN2pAN1
+(大 方)	S;iA3|te5
+(小 气)	S;iO4|tS;hi2
+(直 爽)	tshi[5
+犟	vAN2|pAN1
 一	i5
 二	W4
 三	san1
@@ -4378,19 +4378,19 @@ _0M2 van4_|            // 10,000
 八	pa5
 九	tS;i@3
 十	si[5
-二十	W4si[5
-三十	san1si[5
-一百	i5pa5
-一千	i5tS;hien1
-一万	i5van4
-一百零五	i5pa5tiAN2N-3
-一百五十	i5pa5N-4si[5
-第一	the4i5
-二两	W4tiON3
-几个	tS;i4ku2
-俩	tiON4ku2
-仨	san1ku2
-个把	ku2pA0
+(二 十)	W4|si[5
+(三 十)	san1|si[5
+(一 百)	i5|pa5
+(一 千)	i5|tS;hien1
+(一 万)	i5|van4
+(一 百 零 五)	i5|pa5|tiAN2|N-3
+(一 百 五 十)	i5|pa5|N-4|si[5
+(第 一)	the4|i5
+(二 两)	W4|tiON3
+(几 个)	tS;i4|ku2
+俩	tiON4|ku2
+仨	san1|ku2
+(个 把)	ku2|pA0
 个	ku2
 匹	phe1
 头	tA5
@@ -4421,10 +4421,10 @@ _0M2 van4_|            // 10,000
 块	khua2
 毛	ku5
 件	tS;hi3
-点儿	pi6le0
-些	sin2kA0
+(点 儿)	pi6|le0
+些	sin2|kA0
 下	hA4
-会儿	hA4te0
+(会 儿)	hA4|te0
 顿	tshan1
 阵	thON3
 趟	fe2
@@ -4432,71 +4432,71 @@ _0M2 van4_|            // 10,000
 你	le4
 您	le4
 他	ke4
-我们	Nu1te0
-我们	Nu1tS;i3
-咱们	Nu1te0
-咱们	Nu1tS;i3
-你们	le1tS;i3
-他们	ke1tS;i3
-大家	ha4kA1
-自己	si[6kA1
-别人	phie5n^in2kA1
-我爸	Nu4tiA4lO0
-你爸	le4tiA4lO0
-他爸	ke4tiA4lO0
-这个	te1ku2
-那个	kua1ku2
-哪个	la1ku2
-谁	la3vv-0
-这里	te3tS;i0
-那里	kua3tS;i0
-哪里	la3tS;i0
-这样	te4lON1
-那样	ku4iON1
-怎样	tS;hiAN1lON0
-这么	ku4lON0
-怎么	tS;hiAN1lON0
-什么	sA4ku2
-为什么	tS;hiAN1lON0
-干什么	tsi[2sA4ku2
-多少	tS;i3tu6
+(我 们)	Nu1|te0
+(我 们)	Nu1|tS;i3
+(咱 们)	Nu1|te0
+(咱 们)	Nu1|tS;i3
+(你 们)	le1|tS;i3
+(他 们)	ke1|tS;i3
+(大 家)	ha4|kA1
+(自 己)	si[6|kA1
+(别 人)	phie5|n^in2|kA1
+(我 爸)	Nu4|tiA4|lO0
+(你 爸)	le4|tiA4|lO0
+(他 爸)	ke4|tiA4|lO0
+(这 个)	te1|ku2
+(那 个)	kua1|ku2
+(哪 个)	la1|ku2
+谁	la3|vv-0
+(这 里)	te3|tS;i0
+(那 里)	kua3|tS;i0
+(哪 里)	la3|tS;i0
+(这 样)	te4|lON1
+(那 样)	ku4|iON1
+(怎 样)	tS;hiAN1|lON0
+(这 么)	ku4|lON0
+(怎 么)	tS;hiAN1|lON0
+(什 么)	sA4|ku2
+(为 什 么)	tS;hiAN1|lON0
+(干 什 么)	tsi[2|sA4|ku2
+(多 少)	tS;i3|tu6
 很	man2
-非常	S;iO3te0tS;i3
+(非 常)	S;iO3|te0|tS;i3
 更	ha2
 太	he5
 最	tsue2
 都	tshe2
-一共	i5tS;hi3
-一起	th@N2i5hiA1
+(一 共)	i5|tS;hi3
+(一 起)	th@N2|i5|hiA1
 只	tS;hi@4
-刚好	khan2mA0
+(刚 好)	khan2|mA0
 刚	kON1
 才	tAN6
 就	tS;hi@4
-经常	tS;in1tshON2
+(经 常)	tS;in1|tshON2
 又	i@4
 还	ha2
 再	tsua2
 也	iA4
-反正	fan3tin0
-没有	mO1le0
+(反 正)	fan3|tin0
+(没 有)	mO1|le0
 不	pue5
-别	pue5iO2
-甭	pue5iO2
+别	pue5|iO2
+甭	pue5|iO2
 快	khua2
-差点儿	tshA1fe6le0
-宁可	tshin2khien3
-故意	tsin2si[0
-随便	se2phien3
+(差 点 儿)	tshA1|fe6|le0
+(宁 可)	tshin2|khien3
+(故 意)	tsin2|si[0
+(随 便)	se2|phien3
 白	phA5
-肯定	khien3thin1
-可能	khu4lan2
-一边	i5pien1
+(肯 定)	khien3|thin1
+(可 能)	khu4|lan2
+(一 边)	i5|pien1
 和	kien1
 对	tue2
 往	S;iON2
 向	kien1
 按	tiA2
 替	kien1
-如果	iO2si[4
-不管	pue5kuan3
+(如 果)	iO2|si[4
+(不 管)	pue5|kuan3|

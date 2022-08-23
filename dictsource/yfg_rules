@@ -1,16 +1,205 @@
-.L01  i y // palatized finals
+// Attempt to implement tones and sandhi rules following the example of Cherokee rather than Mandarin, Cantonese, Hakka or Vietnamese. Following the convention of Chinese historical linguistics, the shang 上 "rising" (31) tone will be denoted by x. Using q for the ru 入 "entering" (53) tone follows the precedent of many Wu language transcriptions. The other letters are semi-arbitrary: the qu 去 "departing" (24) tone will be denoted by j, c for the "dark level" yinping 阴平 (44) tone and b for the "light level" yangping 阳平 (221) tone. The non-etymological sixth tone (35) will be g, the zero tone (55) will be z, and the neutral tone (11) will be d.
 
+// Tones that cause tone 1 to change from 44 to 422
+.L01	rg xc zg hd
+
+// Tones that cause tone 4 to change from 24 to 44
+.L02	rg xc zg z d
+
+// Tones that cause tone 7 to change from 55 to 44
+.L03	rc rg zg xg
+
+// All tones
+.L04	rc rg xc zg q hc z d hd
+
+// Semivowels
+.L05	i y u
+
+// Initials
+.L06	p ph m f v t th l ts tsh s tɕ tS; tɕh tS;h ɕ S; ȵ n^ k kh ŋ N h x ?
+
+// Finals
+.L07	i ɿ i[ u v- in un uin yn yin y e ə @ o u ie iə i@ io iu ue uo uəŋ @N əŋ iɛn ien iəŋ i@N yan yen ʮ W ŋ N- a ɑ A ɔ O ai uɑ ua ia iA iɑ iɔ iO ya uai ua en an ɑŋ AN ɔŋ ON iɑŋ iAN iɔŋ iON uan uɔn uɑŋ uɔŋ
+
+// Non-palatized vowels
+.L08	e a @ A u O
+
+// IPA substitutions
 .replace
-// IPA
-ɕ S;
-ȵ n^
-Ǿ
-ŋ N
-x h
-ə @
-ɛ E
-ʮ W
-ɿ i[
-ɑ A
-ɔ O
+	ɕ	S;
+	ȵ	n^
+	Ǿŋ	N-
+	Ǿ	?
+	ŋ	N
+//	x	h
+	ə	@
+	ɛ	e
+	ʮ	W
+	ɿ	i[
+	ɑ	A
+	ɔ	O
+	¹	rc
+	²	rg
+	³	xc
+	⁴	zg
+	⁵	q
+	⁶	xg
+	⁷	z
+	⁸	d
+	⁹	hd
+	
 
+// Initials
+.group p
+	p	p
+	ph	ph
+
+.group f
+	f	f
+
+.group v
+	v	v
+
+.group m
+	m	m
+
+.group t
+	t	t
+	th	th
+	ts	ts
+	tsh	tsh
+	tS;	tS;
+	tS;h	tS;h
+
+.group s
+	s	s
+
+.group S;
+	S;	S;
+
+.group l
+	l	l
+
+.group n
+	n^	n^
+	ng	N
+	
+.group N
+	N-	N-
+
+.group k
+	k	k
+	kh	kh
+
+.group h
+	h	h
+
+// Finals
+
+.group i
+	i[	i[
+	in	in
+	ie	ie
+	ien	ien
+	ia	iA
+	i@	i@
+	i@N	i@N
+	iA	iA
+	iAN	iAN
+	io	iu
+	iO	iO
+	iON	iON
+	i	i
+
+.group y
+	L06) y	v-
+	ya	ya
+	yn	yin
+	yin	yin
+	yan	yen
+	yen	yen
+
+.group e
+	e	e
+	en	an
+
+.group a
+	ai	a
+	a	a
+	an	an
+
+.group @
+	@	@
+	@N	@N
+
+.group A
+	AN	AN
+	A	A
+
+.group u
+//	u	v-
+	uo	u
+	uA	ua
+	uai	ua
+	un	uin
+	uin	uin
+	u@N	@N
+	uOn	uan
+	uan	uan
+	uAN	AN
+	uON	ON
+	u	u
+
+.group O
+	O	O
+	ON	ON
+
+.group o
+	o	o
+
+
+// TONE SANDHI
+// Left tone sandhi (i.e. the tone changes depending on the tone of the next syllable)
+
+// tone 1: deflects 44 --> 422 before tone 2, 3, 4, or 6
+.group rc
+	rc (_L06L07L01	422
+	rcL06L07) rc (_	33
+	rcL07) rc (_	33
+	rc	44
+
+// tone 2: raises 221 --> 33 except phrase finally; raises 33 --> 44 before phrase final tone 1
+.group rg
+	rg (_L06L07L04	33
+	rg (_L06L07rc_	44
+	rg	221
+
+// tone 3: raises 31 --> 24 before tone 2
+.group xc
+	xc (_L06L07L05	24
+	xc (L07L05	24
+	xc	31
+
+
+// tone 4: 24 --> 44 before tone 2, 3 or 4
+.group zg
+	zg (_L06L07L02	44
+	zg (L07L02	44
+	zg	24
+
+// tone 5: 53 --> 55 before tone 7; and glottal stop phrase finally
+.group q
+	q (L06L07z	55
+	q (L07z	55
+	q	53? $atend
+	q	53
+
+// Right tone sandhi (i.e. the tone changes depending on the tone of the previous syllable)
+// tone 7 lowers 55 --> 44 after tone 1, 2, 4, or 6
+.group z
+	L03_L06L07) z	44
+	xc_L06L07) z	35
+	z	55
+
+.group d
+	d	11
